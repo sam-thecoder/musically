@@ -21,5 +21,6 @@ Yes, yes, I did try to setup a docker image but so far haven't got it work (on d
 
 I think it worked before (creating a docker instance) but crashed at running the server when I realised the script didn't setup postgresdb and I'm sure currently even without running a migration it would crash/hiccup. I'm sure I can get it to work but I'd rather not edge towards the deadline for this.
 
-##How long did it take you to make this bad boy of a project?
+## How long did it take you to make this bad boy of a project?
+
 This bad boy took me about 3 or 4 days of time to develop, and I plan to use it again to figure out if you can automate full deployment of a django site to digitalocean.
